@@ -38,7 +38,6 @@ The mapper filters and processes the data by comparing the year and month of the
 
 The reducer aggregates the occurrences of each song by summing up the values returned by the mapper. The reducer groups the values by track_id, calculates the total number of plays for each song, and returns a tuple containing the track ID and the total play count.
 
-
 ## 1.2 
 The main function in 1.2 reads all files in the data directory, and gives each row to the mapper. The mapper splits each row into words and returns the word as key, and the filename and rownumber as value. The reducer is only used to join all the values of a key and returns them. Then the main loop writes the result to a text file.
 
