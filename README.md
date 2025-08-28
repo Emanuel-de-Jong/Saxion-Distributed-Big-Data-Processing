@@ -9,3 +9,4 @@ Exercises using Spark and the Map Reduce architecture to get statistics from dat
 | | |
 | :---: | :---: |
 | ![](/Screenshots/1-Spark_Streaming.png) | ![](/Screenshots/.png) |
+ 
