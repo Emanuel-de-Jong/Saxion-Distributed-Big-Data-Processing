@@ -5,6 +5,7 @@ Exercises using Spark and the Map Reduce architecture to get statistics from dat
 
 **Active Development:** 2024-09-04 - 2024-11-10<br>
 **Last Change:** 2024-11-10<br>
+**Highlights:** Machine Learning<br>
 
 | | |
 | :---: | :---: |
